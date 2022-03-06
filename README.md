@@ -1,12 +1,17 @@
 ### Hi there 👋
 <a href="https://info.flagcounter.com/dQmn"><img src="https://s11.flagcounter.com/count2/dQmn/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-
 <h1 align="center">Hi 👋, I'm liu oszn</h1>
 <h3 align="center">A student from CUG</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oszn&label=Profile%20views&color=0e75b6&style=flat" alt="oszn" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oszn" alt="oszn" /></a> </p>
+
+- 🌱 I’m currently learning **cv**
+
+- 📝 I regularly write articles on [http://42.193.170.22/](http://42.193.170.22/)
+
+- 📫 How to reach me **1091756452@qq.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,8 +23,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oszn&show_icons=true&locale=en&layout=compact" alt="oszn" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oszn&show_icons=true&locale=en" alt="oszn" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oszn&" alt="oszn" /></p>
 
 
 <!--
