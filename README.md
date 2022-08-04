@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oszn&label=Profile%20views&color=0e75b6&style=flat" alt="oszn" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oszn" alt="oszn" /></a> </p>
-
 - 🌱 I’m currently learning **cv**
 
 - 📝 I regularly write articles on [http://42.193.170.22/](http://42.193.170.22/)
