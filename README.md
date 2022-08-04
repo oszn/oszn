@@ -7,12 +7,12 @@
 
 - 🌱 I’m currently learning **cv**
 
-- 📝 I regularly write articles on [http://42.193.170.22/](http://42.193.170.22/)
+- 📝 I regularly write articles on [blog](http://42.193.170.22/)
 
 - 📫 How to reach me **1091756452@qq.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left">座右铭:</h3>
+<p align="left">谎言不会伤人，真相才是快刀。
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
