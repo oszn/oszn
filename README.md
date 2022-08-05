@@ -11,7 +11,9 @@
 
 - 📫 How to reach me **1091756452@qq.com**
 <h3 align="left">作品</h3>
-[大三的第一个项目](https://github.com/oszn/wb)
+
+[和同学的第一个全流程项目](https://github.com/oszn/wb)
+
 <h3 align="left">学习计划</h3>
 *动手部分*
 
