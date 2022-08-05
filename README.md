@@ -21,7 +21,7 @@
 
 *阅读部分*
 
-正在路上......
+[record](https://github.com/oszn/record)
 
 <h3 align="left">座右铭:</h3>
 <p align="left">谎言不会伤人，真相才是快刀。
