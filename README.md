@@ -1,16 +1,4 @@
 ### Hi there 👋
-<a href="https://info.flagcounter.com/dQmn"><img src="https://s11.flagcounter.com/count2/dQmn/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-<h1 align="center">Hi 👋, I'm liu oszn</h1>
-<h3 align="center">A student from CUG</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oszn&label=Profile%20views&color=0e75b6&style=flat" alt="oszn" /> </p>
-
-- 🌱 I’m currently learning **cv**
-
-- 📝 I regularly write articles on [blog](http://42.193.170.22/)
-
-- 📫 How to reach me **1091756452@qq.com**
-<h3 align="left">作品</h3>
 
 [和同学的第一个全流程项目](https://github.com/oszn/wb)
 
