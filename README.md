@@ -1,11 +1,17 @@
-### Hi there 👋
+### Hi there , i am Yi👋
+[@Blog](http://42.193.170.22/)[@Email](1091756452@qq.com)
 
-[和同学的第一个全流程项目](https://github.com/oszn/wb)
+* [first software project work with group](https://github.com/oszn/wb)
+* join Minecraft with us[@version 1.16.5](java)[@ip](42.193.170.22)
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+
+![skills](https://skillicons.dev/icons?i=java,cpp,redis,git,py,linux,md,mysql,stackoverflow,kafka,rabbitmq,vscode,pytorch,spring)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oszn&show_icons=true&locale=en&layout=compact" alt="oszn" /></p>
-![](https://raw.githubusercontent.com/oszn/oszn/main/assets/github-contribution-grid-snake.svg)
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oszn&show_icons=true&locale=en" alt="oszn" /></p>
+
+![commit](https://raw.githubusercontent.com/oszn/oszn/main/assets/github-contribution-grid-snake.svg)
+
+
