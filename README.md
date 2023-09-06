@@ -1,5 +1,5 @@
 ### Hi there , i am Yi👋
-[@Blog](http://42.193.170.22/)[@Email](1091756452@qq.com)
+[@Old Blog](http://42.193.170.22/)[@Email](1091756452@qq.com)[@New Blog](https://blog.csdn.net/weixin_42771401)
 * [first software project work with group](https://github.com/oszn/wb)
 * [平时学习过程的demo code](https://github.com/oszn/datastruck-and-algorithm)
 * join Minecraft with us[@version 1.16.5](java)[@ip](42.193.170.22)
